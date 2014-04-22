@@ -1,4 +1,4 @@
-package com.zxing.view;
+package com.adrian.android.agileframework.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;
